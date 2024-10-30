@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#job_bm_breadcrumb_container {
+	margin-bottom: 10px;
+}
+
+.job_bm_breadcrumb { 
+	list-style: none; 
+	overflow: hidden; 
+	margin:0 ;
+}
+
+.job_bm_breadcrumb li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left;
+}
+
+.job_bm_breadcrumb li a {
+  color: #999;
+  text-decoration: none;
+}
+
+
+.job_bm_breadcrumb li .separetor {
+  color: #999;
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+
+
+		
+
+
+
+
